@@ -47,3 +47,6 @@ dev-dist/
 .Spotlight-V100
 .Trashes
 ehthumbs.db
+
+# Team internal docs (local only)
+docs/YYC3-团队通用-标规闭环/
